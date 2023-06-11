@@ -1,0 +1,9 @@
+export { default as NavBar } from './NavBar';
+export { default as GitHubBtn } from './GitHubBtn';
+export { default as HomeGrid } from './HomeGrid';
+export { default as ListCard } from './ListCard';
+export { default as ExercisesCard } from './ExercisesCard';
+export { default as DetailsBody } from './DetailsBody';
+export { default as SuggetdGrid } from './SuggetdGrid';
+export { default as YoutubeSuggested } from './YoutubeSuggested';
+export { default as Footer } from './Footer';
